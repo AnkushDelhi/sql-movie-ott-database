@@ -22,3 +22,12 @@ The project demonstrates skills in database design, relationships, and SQL queri
 - Find **most popular genre**
 
 ## 📂 Project Structure
+
+## 🚀 How to Run
+1. Open MySQL / PostgreSQL / SQLite
+2. Run `schema.sql` to create tables
+3. Run `data.sql` to insert sample data
+4. Run queries from `queries.sql`
+
+## 🎯 Resume Highlight
+*“Built a SQL-based OTT Platform Database to manage users, subscriptions, movies, ratings, and actor details. Implemented queries for recommendations, top-rated movies, and subscriber analysis.”*
